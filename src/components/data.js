@@ -163,8 +163,7 @@ const products = [
     currency: "$",
     brief:
       "The Sony ZX330BT headphones in Light Grey offer wireless convenience through Bluetooth connectivity. With powerful audio drivers and a built-in microphone, they provide clear sound quality and hands-free calling. Their lightweight design and stylish Light Grey color make them a comfortable and fashionable audio accessory.",
-    imageUrl:
-      "https://uctech.com.my/wp-content/uploads/2020/08/kiran-ck-LSNJ-pltdu8-unsplash-1-scaled-e1597280815183-839x1024.jpg",
+    imageUrl: "https://uctech.com.my/wp-content/uploads/2020/08/kiran-ck-LSNJ-pltdu8-unsplash-1-scaled-e1597280815183-839x1024.jpg",
     additionalImages: [
       "https://uctech.com.my/wp-content/uploads/2020/08/kiran-ck-LSNJ-pltdu8-unsplash-1-scaled-e1597280815183-839x1024.jpg", // Replace with actual small image URLs
       "https://uctech.com.my/wp-content/uploads/2020/08/kiran-ck-LSNJ-pltdu8-unsplash-1-scaled-e1597280815183-839x1024.jpg",
